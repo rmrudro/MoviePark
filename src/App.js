@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-//https://www.youtube.com/watch?v=b9eMGE7QtTk youtube Link of the tutoreal
+
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 import "./App.css";
